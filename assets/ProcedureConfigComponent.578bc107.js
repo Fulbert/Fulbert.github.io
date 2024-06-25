@@ -1,0 +1,1 @@
+import{_ as o}from"./ConfigCard.ec4ae411.js";import{d as r,E as e,G as t}from"./index.2752e685.js";import"./QCard.6f0f5af9.js";import"./useRestApi.e298b086.js";import"./format.00ab709e.js";import"./axios.bf56c3c5.js";import"./config-store.a737a80f.js";const l=r({__name:"ProcedureConfigComponent",setup(m){return(p,a)=>(e(),t(o,{dialog:!1}))}});export{l as default};
