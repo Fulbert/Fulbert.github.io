@@ -1,0 +1,1 @@
+import{d as e,as as t,at as o,an as a,a3 as r}from"./index-C8uGrHc5.js";const u=e({__name:"ErrorNotFound",setup(n){return t.create({message:"The page you have tried to open doesn't exist.",caption:"You have been redirected to home page.",type:"negative"}),o().push({name:"home"}),(c,p)=>(r(),a("div",null,"Redirecting..."))}});export{u as _};

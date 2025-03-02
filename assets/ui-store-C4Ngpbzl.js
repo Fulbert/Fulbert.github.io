@@ -1,0 +1,1 @@
+import{aH as o,aI as e,P as a}from"./index-C8uGrHc5.js";const s="app",i=o(s,{state:()=>({}),actions:{persist(){e.set(s,this.$state)},retrieve(){const t=e.getItem(s);this.$state={...this.$state,...t}}}}),c=o("ui",{state:()=>({dark:"auto"}),getters:{getDarkMode:t=>t.dark},actions:{setDarkMode(t){a.set(t),this.dark=a.mode;const{persist:r}=i();r()}}});export{c as a,i as u};

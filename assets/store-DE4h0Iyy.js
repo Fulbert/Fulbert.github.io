@@ -1,0 +1,1 @@
+import{j as r,P as s}from"./index-C8uGrHc5.js";import{u as i,a}from"./ui-store-C4Ngpbzl.js";import{u as p}from"./printengine-store-IOgvhDn_.js";import"./_commonjsHelpers-Cpj98o6Y.js";const c=r(({store:e})=>{p(e);const o=i(e),t=a(e);o.retrieve(),s.set(t.getDarkMode)});export{c as default};
