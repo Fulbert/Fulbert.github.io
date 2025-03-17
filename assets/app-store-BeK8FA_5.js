@@ -1,0 +1,1 @@
+import{aB as c,r as o}from"./index-CkHtFk-G.js";import{u as s}from"./index-BF-LnGoJ.js";const a="app",P=c(a,()=>{const r=s("user","procedures"),e=s("useProxy",!0),t=s("proxy",i),n=s("usePrintEngineConf",!0),u=o(),p=o({});return{user:r,useProxy:e,proxy:t,usePrintEngineConf:n,ws:u,wsMessageHandlers:p}}),i={host:"127.0.0.1",port:9001};export{P as u};
